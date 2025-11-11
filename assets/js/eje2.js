@@ -1,0 +1,1 @@
+document.getElementById("comida").innerHTML = "comida favorita : pizza";

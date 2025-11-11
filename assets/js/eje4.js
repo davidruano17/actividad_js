@@ -1,0 +1,1 @@
+document.getElementById("musica").innerHTML = "mi musica favorita es : salsa";
